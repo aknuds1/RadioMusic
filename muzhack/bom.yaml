@@ -14,25 +14,25 @@ Various:
   -
     Quantity: 1
     Value: 50K
-    Device:	Bourns 3362P Trimmer
+    Device: Bourns 3362P Trimmer
     Parts: Output level
     "Mouser Part": 652-3362P-1-503LF
   -
     Quantity: 1
     Value: 78L05
-    Device:	78L05 TO92 5v 100ma voltage regulator
+    Device: 78L05 TO92 5v 100ma voltage regulator
     Parts: IC3
     "Mouser Part": 512-LM78L05ACZ
   -
     Quantity: 2
     Value: 50k Linear
-    Device:	ALPHA 9mm Vertical pots (see note above on 100k pots)
+    Device: ALPHA 9mm Vertical pots (see note above on 100k pots)
     Parts: CHANNEL-POT, TIME-POT
     "Mouser Part": Thonk, Bitsbox, Smallbear
   -
     Quantity: 6
     Value: BAT42
-    Device:	BAT42 Schottky Diode (or other, or 1N4148)
+    Device: BAT42 Schottky Diode (or other, or 1N4148)
     Parts: D1, D2, D3, D4, D7, D8
     "Mouser Part": 78-BAT42-TAP
   -
@@ -109,25 +109,25 @@ Various:
     "Mouser Part": tbc
   -
     Quantity: 1
-    Value: 	10k
+    Value:  10k
     Device: 1/4W Resistor
     Parts: R8
     "Mouser Part": 660-MF1/4DCT52A1002F
   -
     Quantity: 1
-    Value: 	1K
+    Value:  1K
     Device: 1/4W Resistor
     Parts: R7
     "Mouser Part": 660-MF1/4DCT52R1001F
   -
     Quantity: 5
-    Value: 	1.5k
+    Value:  1.5k
     Device: 1/4W Resistor
     Parts: R11, R12, R13, R14, R15
     "Mouser Part": tbc
   -
     Quantity: 2
-    Value: 	47k
+    Value:  47k
     Device: 1/4W Resistor
     Parts: R10, R21
     "Mouser Part": tbc
