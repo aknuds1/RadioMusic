@@ -1,0 +1,187 @@
+Various:
+  -
+    Quantity: 1
+    Value:
+    Device: 5 x 2 Power Header
+    Parts: SV1
+    "Mouser Part": 649-67997-210HLF
+  -
+    Quantity: 2
+    Value: 1N4001
+    Device: 1N4001 Diode
+    Parts: D5, D6
+    "Mouser Part": 512-1N4001
+  -
+    Quantity: 1
+    Value: 50K
+    Device:	Bourns 3362P Trimmer
+    Parts: Output level
+    "Mouser Part": 652-3362P-1-503LF
+  -
+    Quantity: 1
+    Value: 78L05
+    Device:	78L05 TO92 5v 100ma voltage regulator
+    Parts: IC3
+    "Mouser Part": 512-LM78L05ACZ
+  -
+    Quantity: 2
+    Value: 50k Linear
+    Device:	ALPHA 9mm Vertical pots (see note above on 100k pots)
+    Parts: CHANNEL-POT, TIME-POT
+    "Mouser Part": Thonk, Bitsbox, Smallbear
+  -
+    Quantity: 6
+    Value: BAT42
+    Device:	BAT42 Schottky Diode (or other, or 1N4148)
+    Parts: D1, D2, D3, D4, D7, D8
+    "Mouser Part": 78-BAT42-TAP
+  -
+    Quantity: 2
+    Value: BL01RN1A
+    Device: BL01RN1A Ferrite Bead (or 10R Resistor)
+    Parts: L1, L2
+    "Mouser Part": 81-BL01RN1A1D2B
+  -
+    Quantity: 2
+    Value: 100n
+    Device: Ceramic Cap
+    Parts: C5, C8
+    "Mouser Part": 594-K104K15X7RF5UH5
+  -
+    Quantity: 2
+    Value: 1n
+    Device: Ceramic Cap
+    Parts: C1, C4
+    "Mouser Part": 594-K102J15C0GF5TH5
+  -
+    Quantity: 2
+    Value: 100n
+    Device: Poly Box Cap
+    Parts: C2, C3
+    "Mouser Part": 80-R82DC3100AA50J
+  -
+    Quantity: 2
+    Value: 10uf
+    Device: Electrolytic Cap
+    Parts: C6, C7
+    "Mouser Part": Panasonic ECE-A1EKS100
+  -
+    Quantity: 1
+    Value:
+    Device: C&K D6 SPST Momentary Key Switches
+    Parts: RESET
+    "Mouser Part": 611-D6R60F1LFS
+  -
+    Quantity: 5
+    Value:
+    Device: 3mm LEDs
+    Parts: LED1, LED2, LED3, LED4, LED5
+    "Mouser Part": 604-WP710A10ID
+  -
+    Quantity: 2
+    Value: 40 pins (cut to fit)
+    Device: 36 Pin Male Header
+    Parts:
+    "Mouser Part": 649-68000-436HLF
+  -
+    Quantity: 2
+    Value: 36 pins (cut to fit)
+    Device: 36 pin Female Header
+    Parts:
+    "Mouser Part": 517-929974-01-36-RK
+  -
+    Quantity: 2
+    Value: FUSE
+    Device: 200ma PTC Poly Fuse
+    Parts: F1, F2
+    "Mouser Part": 652-MFR020-LF
+  -
+    Quantity: 1
+    Value: 100k
+    Device: 1/4W Resistor
+    Parts: R19
+    "Mouser Part": 660-MF1/4LCT52R104G
+  -
+    Quantity: 2
+    Value: 22k
+    Device: 1/4W Resistor
+    Parts: R9, R20
+    "Mouser Part": tbc
+  -
+    Quantity: 1
+    Value: 	10k
+    Device: 1/4W Resistor
+    Parts: R8
+    "Mouser Part": 660-MF1/4DCT52A1002F
+  -
+    Quantity: 1
+    Value: 	1K
+    Device: 1/4W Resistor
+    Parts: R7
+    "Mouser Part": 660-MF1/4DCT52R1001F
+  -
+    Quantity: 5
+    Value: 	1.5k
+    Device: 1/4W Resistor
+    Parts: R11, R12, R13, R14, R15
+    "Mouser Part": tbc
+  -
+    Quantity: 2
+    Value: 	47k
+    Device: 1/4W Resistor
+    Parts: R10, R21
+    "Mouser Part": tbc
+  -
+    Quantity: 2
+    Value: 220R
+    Device: 1/4W Resistor
+    Parts: R17, R18
+    "Mouser Part": 660-MF1/4DCT52R2200F
+  -
+    Quantity: 1
+    Value: 330K
+    Device: 1/4W Resistor
+    Parts: R5
+    "Mouser Part": 660-MF1/4DCT52R3303F
+  -
+    Quantity: 2
+    Value: 47R
+    Device: 1/4W Resistor
+    Parts: R1, R2
+    "Mouser Part": 660-MFS1/4DCT52R47R0
+  -
+    Quantity: 2
+    Value: 8.2k
+    Device: 1/4W Resistor
+    Parts: R3, R4
+    "Mouser Part": 660-MF1/4DCT52R8201F
+  -
+    Quantity: 1
+    Value:
+    Device: Teensy 3.1
+    Parts: U1
+    "Mouser Part": pjrc.com, Cool Components or OSHPark Pins or stackable long pins for Teensy
+  -
+    Quantity: 1
+    Value:
+    Device: 14 pin IC Socket
+    Parts:
+    "Mouser Part": 649-DILB14P-223TLF
+  -
+    Quantity: 1
+    Value: TL074
+    Device: TL074 Quad Op Amp
+    Parts: IC4
+    "Mouser Part": 595-TL074CN
+  -
+    Quantity: 1
+    Value:
+    Device: YAMAICHI PJS008U-3000-0
+    Parts: Vertical SD Card Holder
+    "Mouser Part": Thonk, MSD-HOLDER-3: www.acmesystems.it/catalog_sdcard
+  -
+    Quantity: 4
+    Value:
+    Device: Thonkiconn Socket
+    Parts:
+    "Mouser Part": Available from Thonk

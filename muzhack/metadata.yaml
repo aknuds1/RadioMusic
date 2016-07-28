@@ -1,0 +1,9 @@
+projectId: musicthing-radiomusic
+title: Music Thing Radio Music
+tags:
+  - musicthing
+  - eurorack
+  - modular
+  - kit
+licenseId: cc-by-sa-4.0
+summary: "This is not a radio. It is a sample player that behaves like a radio."
