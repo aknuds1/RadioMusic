@@ -178,7 +178,7 @@ Various:
     Value:
     Device: YAMAICHI PJS008U-3000-0
     Parts: Vertical SD Card Holder
-    "Mouser Part": Thonk, MSD-HOLDER-3: www.acmesystems.it/catalog_sdcard
+    "Mouser Part": [Thonk, "MSD-HOLDER-3: www.acmesystems.it/catalog_sdcard"]
   -
     Quantity: 4
     Value:
