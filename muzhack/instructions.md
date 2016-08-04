@@ -137,4 +137,3 @@ Read here - [Preparing the Teensy 3.1 for Radio Music](https://github.com/TomWhi
   ![Female pin sockets](https://github.com/TomWhitwell/RadioMusic/raw/master/Collateral/BuildImages/14.jpg)
   ![Female pin sockets](https://github.com/TomWhitwell/RadioMusic/raw/master/Collateral/BuildImages/15.jpg)
 * Always remove the Teensy before performing desoldering or rework on the PCBs!
-Contact GitHub API Training Shop Blog About
