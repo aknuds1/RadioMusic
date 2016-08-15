@@ -6,7 +6,7 @@ All the parts are relatively straightforward once you have the Eurorack specific
 vertical pots - both available from Thonk. The only tricky and critical part in Europe is the
 [vertical SD Card Reader from Yamaichi](http://www.yamaichi.de/?id=301&L=0), which I've only
 found available in small numbers from
-[Acme in Italy](https://github.com/TomWhitwell/RadioMusic/wiki/www.acmesystems.it/catalog_sdcard).
+[Acme in Italy](http://www.acmesystems.it/catalog_sdcard).
 This part is available in the US from Mouser as part 945-PJS008U-3000-0.
 
 NB: You will also need:
